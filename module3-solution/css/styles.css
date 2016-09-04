@@ -1,0 +1,58 @@
+/* Css */
+body{
+	position: relative;
+	background-color: #828E64;
+	font-family: 'PlayFair Display', serif;
+	font-size: 20px
+
+}
+
+#header-nav {
+	border-radius: 0;
+	border: 0;
+	background-color: #25301C;
+}
+
+#header-name {
+	color: #828E64;
+}
+div#container-main {
+	border: none;
+	margin: 10px auto 10px auto;
+}
+div#container-main h1 {
+	border: none;
+	margin: 10px auto 10px auto;
+}
+#nav-items {
+	
+}
+#section1 {
+	font-size: 24px;
+	background-color: #AF8D5C;
+	
+}
+#section2 {
+	font-size: 24px;
+	background-color: #F8D9B0;
+}
+#section3 {
+	font-size: 24px;
+	background-color: #F2CE9E;
+}
+.navbar-brand {
+
+}
+div p {
+
+	padding: 25px 25px 25px 25px;
+}
+#nav-items a:hover {
+	background: #F8D9B0;
+}
+ul  {
+	background: #2D3E34;
+}
+#nav-items hr {
+	margin: 0;
+}
